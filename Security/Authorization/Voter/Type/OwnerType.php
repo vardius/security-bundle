@@ -2,7 +2,7 @@
 /**
  * This file is part of the vardius/security-bundle package.
  *
- * (c) Rafał Lorenz <vardius@gmail.com>
+ * (c) Rafał Lorenz <support@vardius.dev>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
@@ -17,7 +17,7 @@ use Vardius\Bundle\SecurityBundle\Security\Authorization\Voter\VoterTypeInterfac
 /**
  * Class OwnerType
  * @package Vardius\Bundle\SecurityBundle\Security\Authorization\Voter\Type
- * @author Rafał Lorenz <vardius@gmail.com>
+ * @author Rafał Lorenz <support@vardius.dev>
  */
 class OwnerType implements VoterTypeInterface
 {
